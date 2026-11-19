@@ -1,0 +1,52 @@
++91 88482 63211 | 
+S Harinandan
+harinandan0423@gmail.com | Kilimanoor, Thiruvananthapuram, Kerala
+EDUCATION
+School of Engineering, CUSAT
+B.Tech in Computer Science and Engineering
+EXPERIENCE
+2023– 2027 CGPA: 8.8
+Kochi, Kerala
+SCORE, College of Engineering Trivandrum (CET)
+Research Intern
+Summer 2026
+Thiruvananthapuram, Kerala
+• Collaborated on a deep learning research project for automated diabetic retinopathy (DR) grading under the guidance
+of Dr. Thasni S
+• Contributed to QASAG-Net, a hybrid CNN + Swin Transformer architecture for 5-class DR severity classification on
+the APTOS 2019 dataset
+• Supported systematic training and evaluation of six model variants (CNN, Swin, fusion baselines, and QASAG-Net),
+helping surface an emergent monotonic gate-routing pattern across severity classes
+Kerala State IT Mission (KSITM)– CERT-K Project
+Student Intern, Cybersecurity
+June– July 2025
+Thiruvananthapuram, Kerala
+• Completed a one-month cybersecurity internship, gaining hands-on training in OWASP Top 10 vulnerabilities,
+vulnerability assessment, and penetration-testing methodology
+• Practiced the five phases of ethical hacking (reconnaissance, scanning/enumeration, gaining access, maintaining
+access, covering tracks) using tools including Nmap, Nikto, Gobuster, theHarvester, and Burp Suite in a controlled
+lab environment
+• Explored the Social Engineering Toolkit (SET) for simulated phishing and credential-harvesting exercises, and
+performed web/infrastructure security audits aligned with OWASP and CVSS standards
+KELTRON
+Student Intern
+May 2024
+• Completed a hands-on technical internship, gaining exposure to industry engineering practices and workflows
+PROJECTS
+Kerala
+QASAG-Net: Diabetic Retinopathy Grading
+2026
+• Built a hybrid CNN + Swin Transformer pipeline for 5-class diabetic retinopathy severity grading on the APTOS 2019
+dataset, as part of a team research internship (SCORE CET)
+• Compared against standalone CNN, standalone Swin, and multiple fusion strategies (concatenation, cross-attention);
+QASAG-Net’s severity-adaptive gating produced clearer, monotonic routing behavior across DR grades
+Secure Long-Range Remote Device Control via SSH
+• Designed a secure long-range SSH-based remote-control system for embedded devices, evaluating GSM/4G LTE,
+LoRa, and satellite communication on range, data rate, cost, and power; selected GSM/4G LTE for real-time control
+• Explored port forwarding, reverse SSH tunneling, and NAT traversal to work around CGNAT restrictions on mobile
+networks, and validated connectivity using a VPS-based relay
+SKILLS
+Coding : Java, Python, C, C++
+Web Development : JavaScript, HTML, CSS
+Tools : VS Code, MySQL, Notion
+Languages : English, Malayalam, Hindi
